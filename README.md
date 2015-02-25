@@ -50,4 +50,4 @@ var SaySomehting = require('say-something');
 ```
 
 ## Documentation
-[Link]()
+Docs - [Link](https://github.com/vitorleal/say-something/blob/master/DOCS.md)
