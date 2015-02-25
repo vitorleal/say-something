@@ -1,6 +1,6 @@
 var should   = require('should'),
     events   = require('events'),
-    SaySomething = require('../lib/index'),
+    SaySomething = require('../lib/say-something'),
     saySometing;
 
 beforeEach(function () {
