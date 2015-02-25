@@ -1,0 +1,31 @@
+{
+  "name": "say-something",
+  "version": "0.1.0",
+  "description": "Use the Google Translate voice to make you apps and things talk!",
+  "main": "index.js",
+  "dependencies": {
+    "lame": "^1.1.2",
+    "request": "^2.53.0",
+    "speaker": "^0.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vitorleal/say-something.git"
+  },
+  "keywords": [
+    "google-translate",
+    "voice",
+    "talk",
+    "speach"
+  ],
+  "author": "Vitor Leal <@vitorleal>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitorleal/say-something/issues"
+  },
+  "homepage": "https://github.com/vitorleal/say-something"
+}
