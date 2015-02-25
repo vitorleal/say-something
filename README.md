@@ -22,12 +22,12 @@ var SaySomehting = require('say-something');
 
  //When start talking
  saySomething.on('talking', function (text) {
-   console.log('Im saying: ' + text);
+   console.log("I'm saying: " + text);
  });
 
  //After stop talking
  saySomething.on('done', function () {
-   console.log('I done talking');
+   console.log("I'm done talking");
  });
 ```
 
