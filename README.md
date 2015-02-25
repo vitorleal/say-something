@@ -55,7 +55,7 @@ var SaySomehting = require('say-something');
 
 
 ## Documentation
-Docs - [Link](https://github.com/vitorleal/say-something/blob/master/DOCS.md)
+Read the Docs - [Link](https://github.com/vitorleal/say-something/blob/master/DOCS.md)
 
 
 ## Author
@@ -66,3 +66,4 @@ Docs - [Link](https://github.com/vitorleal/say-something/blob/master/DOCS.md)
 
 ## License
 [LICENSE](https://github.com/vitorleal/say-something/blob/master/LICENSE.txt)
+
