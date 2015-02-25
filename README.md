@@ -62,3 +62,7 @@ Docs - [Link](https://github.com/vitorleal/say-something/blob/master/DOCS.md)
 | [![twitter/vitorleal](http://gravatar.com/avatar/e133221d7fbc0dee159dca127d2f6f00?s=80)](http://twitter.com/vitorleal "Follow @vitorleal on Twitter") |
 |---|
 | [Vitor Leal](http://vitorleal.com) |
+
+
+## License
+[LICENSE](https://github.com/vitorleal/say-something/blob/master/LICENSE.txt)
