@@ -3,12 +3,14 @@
 
 Say something is a node.js lib to make your apps and things talk using the Google Trasnlate Voice.
 
-## Instalation
+
+## Install
 Use NPM to instal the module
 
 ```
 $ npm install say-something
 ```
+
 
 ## Example
 Quick example:
@@ -51,5 +53,12 @@ var SaySomehting = require('say-something');
  });
 ```
 
+
 ## Documentation
 Docs - [Link](https://github.com/vitorleal/say-something/blob/master/DOCS.md)
+
+
+## Author
+| [![twitter/vitorleal](http://gravatar.com/avatar/e133221d7fbc0dee159dca127d2f6f00?s=80)](http://twitter.com/vitorleal "Follow @vitorleal on Twitter") |
+|---|
+| [Vitor Leal](http://vitorleal.com) |
