@@ -1,4 +1,4 @@
-# Say something
+# Say something [![Build Status](https://travis-ci.org/vitorleal/say-something.svg?branch=master)](https://travis-ci.org/vitorleal/say-something)
 [![NPM](https://nodei.co/npm/say-something.png?downloads=true)](https://nodei.co/npm/say-something/)
 Say something is a node.js lib to make your apps and things talk using the Google Trasnlate Voice.
 
