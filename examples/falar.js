@@ -2,7 +2,7 @@ var SaySomehting = require('say-something');
     saySomething = new SaySomehting({ language: 'pt-br' });
 
 //Fala alguma coisa
-saySomething.now('Eu estou fando!');
+saySomething.now('Eu estou falando!');
 
 //Quando começar a falr
 saySomething.on('talking', function (text) {
