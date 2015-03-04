@@ -37,7 +37,6 @@ Creates an instance of the SaySomething object.
 
 **Example**  
 ```js
-//pass a object with a param name to specify a wearable to connect
 var SaySomething = require('say-something'),
     saySomething = new SaySomething({
       language: 'pt-br' //default language is 'en'
