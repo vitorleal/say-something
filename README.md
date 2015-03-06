@@ -2,7 +2,7 @@
 [![NPM](https://nodei.co/npm/say-something.png?downloads=true)](https://nodei.co/npm/say-something/)
 
 Say something is a node.js lib to make your apps and things talk using the Google Trasnlate Voice.
-
+It requeires internet connection.
 
 ## Install
 Use NPM to instal the module
@@ -40,7 +40,7 @@ var SaySomehting = require('say-something');
 	saySomething = new SaySomehting({ language: 'pt-br' });
 
  //Say something
- saySomething.now('Estou falando com você!');
+ saySomething.now('Eu estou falando!');
 
  //When start talking
  saySomething.on('talking', function (text) {
