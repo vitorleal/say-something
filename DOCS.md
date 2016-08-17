@@ -10,10 +10,10 @@
 
 * [event: "talking"](#event_talking)
 * [event: "done"](#event_done)
- 
+
 <a name="SaySomething"></a>
 #class: SaySomething
-**Extends**: `EventEmitter`  
+**Extends**: `EventEmitter`
 **Members**
 
 * [class: SaySomething](#SaySomething)
@@ -26,16 +26,16 @@ Creates an instance of the SaySomething object.
 
 **Params**
 
-- config `object` - configuration object.  
-  - language `string` - OPTIONAL (dafault 'en').  
+- config `object` - configuration object.
+  - language `string` - OPTIONAL (dafault 'en').
 
-**Extends**: `EventEmitter`  
+**Extends**: `EventEmitter`
 **Fires**
 
 - [event:taliking - will be emitted when talking something.](event:taliking - will be emitted when talking something.)
 - [event:done - will be emitted after say something.](event:done - will be emitted after say something.)
 
-**Example**  
+**Example**
 ```js
 var SaySomething = require('say-something'),
     saySomething = new SaySomething({
@@ -49,9 +49,9 @@ Say something now
 
 **Params**
 
-- text `string` - The text the machine should say.  
+- text `string` - The text the machine should say.
 
-**Example**  
+**Example**
 ```js
 ...
 
@@ -62,7 +62,7 @@ saySomething.now('Hi, i am your machine, and i am talking to you!');
 #event: "talking"
 Talking event will be fired when talking something.
 
-**Example**  
+**Example**
 ```js
 ...
 
@@ -75,7 +75,7 @@ saySomething.on('talking', function (text) {
 #event: "done"
 Done event will be fired after say something.
 
-**Example**  
+**Example**
 ```js
 ...
 
