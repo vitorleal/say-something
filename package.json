@@ -1,6 +1,6 @@
 {
   "name": "say-something",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Use the Google Translate voice to make you apps and things talk!",
   "main": "index.js",
   "dependencies": {
